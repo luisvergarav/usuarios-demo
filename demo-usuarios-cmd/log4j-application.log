@@ -1,0 +1,258 @@
+2020-01-29 23:49:51 INFO  UsuariosController:36 - 
+2020-01-29 23:49:51 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@4996000f
+2020-01-29 23:49:51 DEBUG UsuariosController:51 - User Created Exceptionnull
+2020-01-29 23:51:26 INFO  UsuariosController:36 - 
+2020-01-29 23:51:27 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@550a3097
+2020-01-29 23:51:52 DEBUG UsuariosController:51 - User Created Exceptionnull
+2020-01-29 23:52:44 INFO  UsuariosController:36 - 
+2020-01-29 23:52:44 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@47904aad
+2020-01-29 23:53:28 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}null
+2020-01-29 23:53:28 INFO  UsuariosController:46 - User not Created null
+2020-01-29 23:54:25 INFO  UsuariosController:36 - 
+2020-01-29 23:54:25 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@7edddbc6
+2020-01-29 23:54:34 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}null
+2020-01-29 23:54:34 INFO  UsuariosController:46 - User not Created null
+2020-01-29 23:55:32 INFO  UsuariosController:36 - 
+2020-01-29 23:55:32 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@2568880e
+2020-01-29 23:55:39 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}null
+2020-01-29 23:55:39 INFO  UsuariosController:46 - User not Created null
+2020-01-29 23:58:31 INFO  UsuariosController:36 - 
+2020-01-29 23:58:31 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@5cdd7
+2020-01-29 23:58:33 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}null
+2020-01-29 23:58:33 INFO  UsuariosController:46 - User not Created null
+2020-01-29 23:59:01 INFO  UsuariosController:36 - 
+2020-01-29 23:59:01 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@3154a2ef
+2020-01-29 23:59:17 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}null
+2020-01-29 23:59:17 INFO  UsuariosController:46 - User not Created null
+2020-01-30 00:33:08 INFO  UsuariosController:36 - 
+2020-01-30 00:33:08 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@47ba40bd
+2020-01-30 00:33:09 INFO  UserService:33 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@140a2c9a
+2020-01-30 00:33:09 INFO  DecoratorCreateUserCommandBus:35 - Sending UserCreatedEvent integration Event null
+2020-01-30 00:33:09 INFO  UsuariosController:44 - User Created successful null
+2020-01-30 00:42:32 INFO  UsuariosController:36 - 
+2020-01-30 00:42:33 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@2d0b8b06
+2020-01-30 00:44:30 INFO  UserService:33 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@173745e2
+2020-01-30 00:44:30 INFO  DecoratorCreateUserCommandBus:35 - Sending UserCreatedEvent integration Event null
+2020-01-30 00:44:30 INFO  UsuariosController:44 - User Created successful null
+2020-01-30 00:49:20 INFO  UsuariosController:36 - 
+2020-01-30 00:49:20 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@36030663
+2020-01-30 00:49:21 INFO  UserService:33 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@6236b27b
+2020-01-30 00:49:21 INFO  DecoratorCreateUserCommandBus:35 - Sending UserCreatedEvent integration Event null
+2020-01-30 00:49:21 INFO  UsuariosController:44 - User Created successful null
+2020-01-30 00:49:27 INFO  UsuariosController:36 - 
+2020-01-30 00:49:27 INFO  UsuariosController:38 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@21d69795
+2020-01-30 00:49:27 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}could not execute statement; SQL [n/a]; constraint ["PUBLIC.UK_OB8KQYQQGMEFL0ACO34AKDTPE_INDEX_2 ON PUBLIC.USER(EMAIL) VALUES 1"; SQL statement:
+insert into user (id, email, password) values (null, ?, ?) [23505-200]]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-01-30 00:49:27 INFO  UsuariosController:46 - User not Created null
+2020-01-30 00:53:11 INFO  UsuariosController:37 - 
+2020-01-30 00:53:11 INFO  UsuariosController:39 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@4a5437f3
+2020-01-30 00:53:12 INFO  UserService:33 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@4ceb92a4
+2020-01-30 00:53:12 INFO  DecoratorCreateUserCommandBus:35 - Sending UserCreatedEvent integration Event null
+2020-01-30 00:53:12 INFO  UsuariosController:45 - User Created successful null
+2020-01-30 00:53:13 INFO  UsuariosController:37 - 
+2020-01-30 00:53:13 INFO  UsuariosController:39 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@6eb616eb
+2020-01-30 00:53:13 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}could not execute statement; SQL [n/a]; constraint ["PUBLIC.UK_OB8KQYQQGMEFL0ACO34AKDTPE_INDEX_2 ON PUBLIC.USER(EMAIL) VALUES 1"; SQL statement:
+insert into user (id, email, password) values (null, ?, ?) [23505-200]]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-01-30 00:53:13 DEBUG UsuariosController:55 - User Created Exceptionnull
+2020-01-30 00:54:51 INFO  UsuariosController:37 - 
+2020-01-30 00:54:51 INFO  UsuariosController:39 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@57f77f98
+2020-01-30 00:54:51 INFO  UserService:33 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@593d5a7e
+2020-01-30 00:54:51 INFO  DecoratorCreateUserCommandBus:35 - Sending UserCreatedEvent integration Event null
+2020-01-30 00:54:51 INFO  UsuariosController:45 - User Created successful null
+2020-01-30 00:55:19 INFO  UsuariosController:37 - 
+2020-01-30 00:55:20 INFO  UsuariosController:39 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@5a75be40
+2020-01-30 00:56:06 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}could not execute statement; SQL [n/a]; constraint ["PUBLIC.UK_OB8KQYQQGMEFL0ACO34AKDTPE_INDEX_2 ON PUBLIC.USER(EMAIL) VALUES 1"; SQL statement:
+insert into user (id, email, password) values (null, ?, ?) [23505-200]]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-01-30 00:56:41 DEBUG UsuariosController:55 - User Created Exceptionnull
+2020-01-30 00:57:16 INFO  UsuariosController:38 - 
+2020-01-30 00:57:16 INFO  UsuariosController:40 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@22d28fc
+2020-01-30 00:57:16 INFO  UserService:33 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@3f998bb
+2020-01-30 00:57:16 INFO  DecoratorCreateUserCommandBus:35 - Sending UserCreatedEvent integration Event null
+2020-01-30 00:57:16 INFO  UsuariosController:46 - User Created successful null
+2020-01-30 00:57:17 INFO  UsuariosController:38 - 
+2020-01-30 00:57:17 INFO  UsuariosController:40 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@3dc5d5f9
+2020-01-30 00:57:17 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}could not execute statement; SQL [n/a]; constraint ["PUBLIC.UK_OB8KQYQQGMEFL0ACO34AKDTPE_INDEX_2 ON PUBLIC.USER(EMAIL) VALUES 1"; SQL statement:
+insert into user (id, email, password) values (null, ?, ?) [23505-200]]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-01-30 00:57:38 INFO  UsuariosController:38 - 
+2020-01-30 00:57:38 INFO  UsuariosController:40 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@d03acaa
+2020-01-30 00:57:38 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}could not execute statement; SQL [n/a]; constraint ["PUBLIC.UK_OB8KQYQQGMEFL0ACO34AKDTPE_INDEX_2 ON PUBLIC.USER(EMAIL) VALUES 1"; SQL statement:
+insert into user (id, email, password) values (null, ?, ?) [23505-200]]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-01-30 00:57:38 INFO  UsuariosController:38 - 
+2020-01-30 00:57:38 INFO  UsuariosController:40 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@64b67bcf
+2020-01-30 00:57:38 ERROR DecoratorCreateUserCommandBus:40 - Error Sending UserCreatedEvent integration Event {"name":null}could not execute statement; SQL [n/a]; constraint ["PUBLIC.UK_OB8KQYQQGMEFL0ACO34AKDTPE_INDEX_2 ON PUBLIC.USER(EMAIL) VALUES 1"; SQL statement:
+insert into user (id, email, password) values (null, ?, ?) [23505-200]]; nested exception is org.hibernate.exception.ConstraintViolationException: could not execute statement
+2020-01-30 00:57:44 INFO  UsuariosController:38 - 
+2020-01-30 00:57:44 INFO  UsuariosController:40 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@50b00727
+2020-01-30 00:57:44 INFO  UserService:33 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@2e9f43d3
+2020-01-30 00:57:44 INFO  DecoratorCreateUserCommandBus:35 - Sending UserCreatedEvent integration Event null
+2020-01-30 00:57:44 INFO  UsuariosController:46 - User Created successful null
+2020-01-30 01:03:00 INFO  UsuariosController:42 - 
+2020-01-30 01:03:00 INFO  UsuariosController:44 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@5e065900
+2020-01-30 01:03:00 INFO  UsuariosController:57 - Not Valid Email email@google.co1m
+2020-01-30 01:03:06 INFO  UsuariosController:42 - 
+2020-01-30 01:03:06 INFO  UsuariosController:44 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@210d13a7
+2020-01-30 01:03:06 INFO  UsuariosController:57 - Not Valid Email email@google.co1m
+2020-01-30 09:54:13 INFO  UsuariosController:44 - 
+2020-01-30 09:54:13 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@301d72b7
+2020-01-30 09:54:13 DEBUG UsuariosController:71 - User Created Exceptionnull
+2020-01-30 09:56:21 INFO  UsuariosController:44 - 
+2020-01-30 09:56:21 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@36030663
+2020-01-30 09:56:21 DEBUG UsuariosController:71 - User Created Exceptionnull
+2020-01-30 09:57:06 INFO  UsuariosController:44 - 
+2020-01-30 09:57:06 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@4ec06f45
+2020-01-30 09:57:06 DEBUG UsuariosController:71 - User Created Exceptionnull
+2020-01-30 09:57:49 INFO  UsuariosController:44 - 
+2020-01-30 09:57:50 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@7c6f5356
+2020-01-30 09:58:16 DEBUG UsuariosController:71 - User Created Exceptionnull
+2020-01-30 09:58:33 INFO  UsuariosController:44 - 
+2020-01-30 09:58:33 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@520337a7
+2020-01-30 09:58:40 INFO  UsuariosController:61 - Not valid Payload email@google.co1m
+2020-01-30 09:59:08 INFO  UsuariosController:44 - 
+2020-01-30 09:59:08 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@77654cb1
+2020-01-30 09:59:09 INFO  UsuariosController:61 - Not valid Payload email@google.com
+2020-01-30 10:07:48 INFO  UsuariosController:44 - 
+2020-01-30 10:07:48 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@5032ec8b
+2020-01-30 10:07:48 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 10:09:32 INFO  UsuariosController:44 - 
+2020-01-30 10:09:32 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@216ae1ee
+2020-01-30 10:09:32 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 10:09:48 INFO  UsuariosController:44 - 
+2020-01-30 10:09:48 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@d03acaa
+2020-01-30 10:09:48 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 10:09:58 INFO  UsuariosController:44 - 
+2020-01-30 10:09:58 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@64b67bcf
+2020-01-30 10:09:58 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 10:10:43 INFO  UsuariosController:44 - 
+2020-01-30 10:10:43 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@50b00727
+2020-01-30 10:10:43 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 10:15:45 INFO  UsuariosController:44 - 
+2020-01-30 10:15:45 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@21d69795
+2020-01-30 10:15:45 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 10:17:17 INFO  UsuariosController:44 - 
+2020-01-30 10:17:18 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@50e43aa6
+2020-01-30 10:17:32 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 10:18:38 INFO  UsuariosController:44 - 
+2020-01-30 10:18:38 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@2e5b151
+2020-01-30 10:18:38 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 10:21:28 INFO  UsuariosController:44 - 
+2020-01-30 10:21:28 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@168472bb
+2020-01-30 10:21:30 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 10:21:44 INFO  UsuariosController:44 - 
+2020-01-30 10:21:44 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@52306405
+2020-01-30 10:21:44 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 10:22:11 INFO  UsuariosController:44 - 
+2020-01-30 10:22:11 INFO  UsuariosController:46 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@6573638
+2020-01-30 10:22:11 INFO  UsuariosController:61 - Not valid Payload 
+2020-01-30 17:15:40 INFO  UsuariosController:59 - 
+2020-01-30 17:15:40 INFO  UsuariosController:61 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@73db5cb9
+2020-01-30 17:15:40 INFO  UserService:33 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@3a22a86c
+2020-01-30 17:15:40 INFO  DecoratorCreateUserCommandBus:35 - Sending UserCreatedEvent integration Event null
+2020-01-30 17:15:40 INFO  UsuariosController:69 - User Created successful null
+2020-01-31 17:36:13 INFO  UsuariosController:61 - 
+2020-01-31 17:36:13 INFO  UsuariosController:63 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@5e900a75
+2020-01-31 17:36:14 INFO  UserService:32 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@64157355
+2020-01-31 17:36:14 INFO  UsuariosController:73 - User Created successful null
+2020-01-31 17:36:36 INFO  UsuariosController:61 - 
+2020-01-31 17:36:36 INFO  UsuariosController:63 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@21560d1d
+2020-01-31 17:36:51 INFO  UsuariosController:61 - 
+2020-01-31 17:36:51 INFO  UsuariosController:63 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@15f6ce54
+2020-01-31 17:36:51 INFO  UserService:32 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@1b31229a
+2020-01-31 17:36:51 INFO  UsuariosController:73 - User Created successful null
+2020-01-31 17:37:45 INFO  UsuariosController:61 - 
+2020-01-31 17:37:45 INFO  UsuariosController:63 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@56dd753e
+2020-01-31 18:23:21 INFO  UsuariosController:54 - 
+2020-01-31 18:23:21 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@6c9cf2f5
+2020-01-31 18:23:21 INFO  UserService:32 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@78a4e54b
+2020-01-31 18:23:21 INFO  UsuariosController:65 - User Created successful null
+2020-01-31 18:23:24 INFO  UsuariosController:54 - 
+2020-01-31 18:23:24 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@6d9c10c2
+2020-02-01 14:24:48 INFO  UsuariosController:54 - 
+2020-02-01 14:24:48 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@2a8e30e3
+2020-02-01 14:24:48 INFO  UserService:32 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@8ee1404
+2020-02-01 14:24:48 INFO  UsuariosController:65 - User Created successful null
+2020-02-01 14:35:35 INFO  UsuariosController:54 - 
+2020-02-01 14:35:35 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@3b839f68
+2020-02-01 14:35:35 INFO  UserService:32 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@125124ea
+2020-02-01 14:35:35 INFO  UsuariosController:65 - User Created successful null
+2020-02-01 15:23:23 INFO  UsuariosController:54 - 
+2020-02-01 15:23:23 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@18455b27
+2020-02-01 15:23:24 INFO  UserService:29 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@28dce4a0
+2020-02-01 15:23:24 INFO  UsuariosController:65 - User Created successful null
+2020-02-01 15:23:34 INFO  UsuariosController:54 - 
+2020-02-01 15:23:34 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@6c3f1384
+2020-02-01 15:23:40 INFO  UsuariosController:54 - 
+2020-02-01 15:23:40 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@40faf3a6
+2020-02-01 15:23:40 INFO  UserService:29 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@4e3d05c9
+2020-02-01 15:23:40 INFO  UsuariosController:65 - User Created successful null
+2020-02-01 15:24:42 INFO  UsuariosController:54 - 
+2020-02-01 15:24:42 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@18470f9a
+2020-02-01 16:37:20 INFO  UsuariosController:54 - 
+2020-02-01 16:37:20 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@6c3f1384
+2020-02-01 16:37:20 INFO  UserService:29 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@12d60112
+2020-02-01 16:37:20 INFO  UsuariosController:65 - User Created successful null
+2020-02-01 16:37:28 INFO  UsuariosController:54 - 
+2020-02-01 16:37:28 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@40faf3a6
+2020-02-01 16:37:33 INFO  UsuariosController:54 - 
+2020-02-01 16:37:33 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@fb59fdb
+2020-02-01 16:37:33 INFO  UserService:29 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@172605d
+2020-02-01 16:37:33 INFO  UsuariosController:65 - User Created successful null
+2020-02-01 16:39:19 INFO  UsuariosController:54 - 
+2020-02-01 16:39:19 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@1d96bf21
+2020-02-01 16:39:19 INFO  UserService:29 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@5d61f871
+2020-02-01 16:39:19 INFO  UsuariosController:65 - User Created successful nombre
+2020-02-01 16:46:40 INFO  UsuariosController:54 - 
+2020-02-01 16:46:40 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@7a18c572
+2020-02-01 16:46:40 INFO  UserService:30 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@4e7a01a7
+2020-02-01 16:46:40 INFO  UsuariosController:65 - User Created successful nombre
+2020-02-01 16:48:49 INFO  UsuariosController:54 - 
+2020-02-01 16:48:49 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@23cf44a1
+2020-02-01 16:48:54 INFO  UsuariosController:54 - 
+2020-02-01 16:48:54 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@7ae3f110
+2020-02-01 16:48:54 INFO  UserService:30 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@2de5c1da
+2020-02-01 16:48:54 INFO  UsuariosController:65 - User Created successful nombre
+2020-02-01 16:51:34 INFO  UsuariosController:54 - 
+2020-02-01 16:51:34 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@531dbaa
+2020-02-01 16:51:34 INFO  UserService:30 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@433632df
+2020-02-01 16:51:34 INFO  UsuariosController:65 - User Created successful nombre
+2020-02-01 16:55:21 INFO  UsuariosController:54 - 
+2020-02-01 16:55:21 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@153012cd
+2020-02-01 16:55:21 INFO  UserService:30 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@66f1f13f
+2020-02-01 16:55:21 INFO  UsuariosController:65 - User Created successful nombre
+2020-02-01 16:57:05 INFO  UsuariosController:54 - 
+2020-02-01 16:57:05 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@37e71d42
+2020-02-01 16:57:56 INFO  UserService:30 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@4dd132f7
+2020-02-01 16:57:56 INFO  UsuariosController:65 - User Created successful nombre
+2020-02-01 17:00:38 INFO  UsuariosController:54 - 
+2020-02-01 17:00:38 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@4799d7b1
+2020-02-01 17:00:50 INFO  UserService:30 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@495e2132
+2020-02-01 17:05:01 INFO  UsuariosController:54 - 
+2020-02-01 17:05:01 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@2e84c32e
+2020-02-01 17:05:01 INFO  UserService:30 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@302a7969
+2020-02-01 17:05:01 INFO  UsuariosController:65 - User Created successful nombre
+2020-02-01 17:06:35 INFO  UsuariosController:54 - 
+2020-02-01 17:06:35 INFO  UsuariosController:56 - Create User request.com.ittalent.seguridad.demousuarioscmd.infra.adapters.http.rest.domain.User@64344c77
+2020-02-01 17:06:35 INFO  UserService:30 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@a1c03ab
+2020-02-01 17:06:35 INFO  UsuariosController:65 - User Created successful nombre
+2020-02-01 17:43:40 INFO  UsuariosController:54 - 
+2020-02-01 17:43:40 INFO  UsuariosController:56 - Create User request.{"name":"nombre","email":"email@gdoo2glwe1q1.com","password":"mkyongA1w1","phones":[{"number":"1","cityCode":"1","countryCode":"1"}]}
+2020-02-01 17:43:40 INFO  UserService:30 - User Saved successful com.ittalent.seguridad.demousuarioscmd.domain.model.User@78bef9e6
+2020-02-01 17:43:40 INFO  UsuariosController:65 - User Created successful Nombre: nombre
+2020-02-01 17:46:26 INFO  UsuariosController:54 - 
+2020-02-01 17:46:26 INFO  UsuariosController:56 - Create User request.{"name":"nombre","email":"email@gdoo2glwe1q1.com","password":"mkyongA1w1","phones":[{"number":"1","cityCode":"1","countryCode":"1"}]}
+2020-02-01 17:46:26 INFO  UserService:30 - User Saved successful - Id : 1
+2020-02-01 17:46:26 INFO  UsuariosController:65 - User Created successful
+2020-02-01 17:46:53 INFO  UsuariosController:54 - 
+2020-02-01 17:46:53 INFO  UsuariosController:56 - Create User request.{"name":"nombre","email":"email@gdoo2glwe1q1.com","password":"mkyongA1w1","phones":[{"number":"1","cityCode":"1","countryCode":"1"}]}
+2020-02-01 17:48:40 INFO  UsuariosController:54 - 
+2020-02-01 17:48:40 INFO  UsuariosController:56 - Create User request.{"name":"nombre","email":"email@gdoo2glwe1q1.com","password":"mkyongA1w1","phones":[{"number":"1","cityCode":"1","countryCode":"1"}]}
+2020-02-01 17:48:41 INFO  UserService:30 - User Saved successful - Id : 1
+2020-02-01 17:48:41 INFO  UsuariosController:65 - User Created successful
+2020-02-01 17:48:44 INFO  UsuariosController:54 - 
+2020-02-01 17:48:44 INFO  UsuariosController:56 - Create User request.{"name":"nombre","email":"email@gdoo2glwe1q1.com","password":"mkyongA1w1","phones":[{"number":"1","cityCode":"1","countryCode":"1"}]}
+2020-02-01 17:54:08 INFO  UsuariosController:54 - 
+2020-02-01 17:54:08 INFO  UsuariosController:56 - Create User request.{"name":"nombre","email":"email@gdoo2glwe1q1.com","password":"mkyongA1w1","phones":[{"number":"1","cityCode":"1","countryCode":"1"}]}
+2020-02-01 17:54:08 INFO  UserService:30 - User Saved successful - Id : 1
+2020-02-01 17:54:08 INFO  UsuariosController:65 - User Created successful
+2020-02-01 17:54:23 INFO  UsuariosController:54 - 
+2020-02-01 17:54:23 INFO  UsuariosController:56 - Create User request.{"name":"nombre","email":"email@gdoo2glwe1q1.com","password":"mkyongA1w1","phones":[{"number":"1","cityCode":"1","countryCode":"1"}]}
+2020-02-01 17:54:23 ERROR UsuariosController:72 - User Created Exception{"name":"nombre","email":"email@gdoo2glwe1q1.com","password":"mkyongA1w1","phones":[{"number":"1","cityCode":"1","countryCode":"1"}]}
